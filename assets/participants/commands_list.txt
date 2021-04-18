@@ -1,0 +1,4 @@
+1.ctrl+shift+p,am selectat push pentru noul branch
+2.in source control am adaugat filele modificate(apasa + din dreptul filei) 
+3.ctrl+shift+p si commit la filele selectate
+4.ctrl+shift+p si push 
